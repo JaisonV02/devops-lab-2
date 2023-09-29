@@ -1,4 +1,4 @@
-print('This is another string!')
+print('Welcome!')
 
 i = 0
 while i <= 10:
