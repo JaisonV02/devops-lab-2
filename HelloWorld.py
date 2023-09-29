@@ -1,4 +1,4 @@
-print('Welcome!')
+kkkkkkkprint('Welcome!')
 
 i = 0
 while i <= 10:
